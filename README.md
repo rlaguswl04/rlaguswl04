@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20Hyunji's%20github&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20Hyunji's%20github&fontSize=60)
 
 ## Hello! Nice to see you 💌
 welcome to my page❗
