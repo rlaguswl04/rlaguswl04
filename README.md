@@ -1,10 +1,8 @@
-## Introduction
-안녕하세요. 김현지입니다.
+## Hello! Nice to see you
+welcome to my page!!!
 
-## career
-영남대학교 컴퓨터공학과
+# career
+Computer science in Yeungnam Univ
 
-## Links
-E-mail - 0127luck@naver.com
-
-
+# link
+email - 0127luck@naver.com
