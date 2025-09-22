@@ -3,5 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=FF5AD9&height=100&section=header&text=welcome%20to%20hyunji's%20github&fontSize=50)
 
 
+![An image of a GitHub contribution graph in 3D.](https://github.com/rlaguswl04/rlaguswl04/blob/output/github-contribution-grid-3d.svg)
+
+
 
 
