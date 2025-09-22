@@ -15,3 +15,5 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           COMMIT_MSG: "feat: update 3D contrib"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
