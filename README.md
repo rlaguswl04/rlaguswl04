@@ -1,8 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<div align="center">
+  <!-- 타이틀 이미지 -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=hyunji's%20github&fontSize=30&fontAlignY=50" alt="header" />
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FF5AD9&height=100&section=header&text=welcome%20to%20hyunji's%20github&fontSize=50)
+  <br>
 
+  <!-- 깃허브 펫 위젯 -->
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/rlaguswl04" alt="Gitanimals"/>
+  </a>
 
+  <br><br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+  <!-- 기술 스택 -->
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  </p>
+</div>
